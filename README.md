@@ -1,1 +1,1 @@
-# Statistics-in-R
+Manipulating the "Freeny" data-set in R
